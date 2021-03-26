@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "mod_centuplex:block/goldchest"
+    },
+    "facing=east": {
+      "model": "mod_centuplex:block/goldchest",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "mod_centuplex:block/goldchest",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "mod_centuplex:block/goldchest",
+      "y": 270
+    }
+  }
+}

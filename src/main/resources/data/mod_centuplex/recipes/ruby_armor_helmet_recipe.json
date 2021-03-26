@@ -1,0 +1,29 @@
+{
+  "group": "mod_centuplex",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "mod_centuplex:ruby"
+    },
+    "1": {
+      "item": "mod_centuplex:ruby"
+    },
+    "2": {
+      "item": "mod_centuplex:ruby"
+    },
+    "3": {
+      "item": "mod_centuplex:ruby"
+    },
+    "5": {
+      "item": "mod_centuplex:ruby"
+    }
+  },
+  "result": {
+    "item": "mod_centuplex:ruby_armor_helmet",
+    "count": 1
+  }
+}

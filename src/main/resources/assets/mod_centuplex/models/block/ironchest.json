@@ -1,0 +1,9 @@
+{
+  "parent": "mod_centuplex:custom/iron_chest",
+  "textures": {
+    "all": "mod_centuplex:blocks/iron_chest_texture",
+    "particle": "mod_centuplex:blocks/iron_chest_texture",
+    "0": "mod_centuplex:blocks/iron_chest_texture",
+    "missing": "mod_centuplex:blocks/"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "gold_chest_texture",
+        "missing": ""
+      },
+      "name": "default"
+    }
+  }
+}

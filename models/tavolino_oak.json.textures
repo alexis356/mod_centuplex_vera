@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "tavolino_sopra",
+        "2": "tavolino_piedi"
+      },
+      "name": "default"
+    }
+  }
+}

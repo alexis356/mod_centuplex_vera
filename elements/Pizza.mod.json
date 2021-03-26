@@ -1,0 +1,28 @@
+{
+  "_fv": 13,
+  "_type": "food",
+  "definition": {
+    "renderType": 0,
+    "texture": "pizza",
+    "customModelName": "Normal",
+    "name": "Pizza",
+    "rarity": "COMMON",
+    "specialInfo": [
+      "fatta cu core"
+    ],
+    "creativeTab": {
+      "value": "FOOD"
+    },
+    "stackSize": 64,
+    "nutritionalValue": 4,
+    "saturation": 0.5,
+    "eatingSpeed": 32,
+    "resultItem": {
+      "value": ""
+    },
+    "forDogs": false,
+    "isAlwaysEdible": false,
+    "animation": "eat",
+    "hasGlow": false
+  }
+}

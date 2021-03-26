@@ -1,0 +1,12 @@
+{
+  "group": "mod_centuplex",
+  "type": "minecraft:smelting",
+  "experience": 3.15,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "mod_centuplex:ruby_ore"
+  },
+  "result": {
+    "item": "mod_centuplex:ruby"
+  }
+}

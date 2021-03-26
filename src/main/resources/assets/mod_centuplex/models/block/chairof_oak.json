@@ -1,0 +1,9 @@
+{
+  "parent": "mod_centuplex:custom/sedia_oak",
+  "textures": {
+    "all": "mod_centuplex:blocks/tavolino_sopra",
+    "particle": "mod_centuplex:blocks/tavolino_sopra",
+    "0": "mod_centuplex:blocks/tavolino_sopra",
+    "2": "mod_centuplex:blocks/tavolino_piedi"
+  }
+}

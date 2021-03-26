@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "iron_chest_texture",
+        "missing": ""
+      },
+      "name": "default"
+    }
+  }
+}

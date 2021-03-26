@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "mod_centuplex:blocks/infern_log_top_and_bottom",
+    "up": "mod_centuplex:blocks/infern_log_top_and_bottom",
+    "north": "mod_centuplex:blocks/infern_log",
+    "east": "mod_centuplex:blocks/infern_log",
+    "south": "mod_centuplex:blocks/infern_log",
+    "west": "mod_centuplex:blocks/infern_log",
+    "particle": "mod_centuplex:blocks/infern_log_top_and_bottom"
+  }
+}

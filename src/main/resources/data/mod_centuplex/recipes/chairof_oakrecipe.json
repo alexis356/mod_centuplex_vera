@@ -1,0 +1,39 @@
+{
+  "group": "mod_centuplex",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:stick"
+    },
+    "1": {
+      "item": "minecraft:oak_log"
+    },
+    "2": {
+      "item": "minecraft:stick"
+    },
+    "3": {
+      "item": "minecraft:oak_log"
+    },
+    "4": {
+      "item": "minecraft:oak_log"
+    },
+    "5": {
+      "item": "minecraft:oak_log"
+    },
+    "6": {
+      "item": "minecraft:stick"
+    },
+    "8": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "mod_centuplex:chairof_oak",
+    "count": 1
+  }
+}

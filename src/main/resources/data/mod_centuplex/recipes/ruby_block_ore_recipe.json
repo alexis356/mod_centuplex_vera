@@ -1,0 +1,13 @@
+{
+  "group": "mod_centuplex",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "mod_centuplex:ruby_block"
+    }
+  ],
+  "result": {
+    "item": "mod_centuplex:ruby",
+    "count": 9
+  }
+}

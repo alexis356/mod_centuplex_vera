@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "mod_centuplex:blocks/inferno_planks",
+    "up": "mod_centuplex:blocks/inferno_planks",
+    "north": "mod_centuplex:blocks/inferno_planks",
+    "east": "mod_centuplex:blocks/inferno_planks",
+    "south": "mod_centuplex:blocks/inferno_planks",
+    "west": "mod_centuplex:blocks/inferno_planks",
+    "particle": "mod_centuplex:blocks/inferno_planks"
+  }
+}

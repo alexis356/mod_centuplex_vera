@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "mod_centuplex:blocks/infern_sapling",
+    "particle": "mod_centuplex:blocks/infern_sapling"
+  }
+}

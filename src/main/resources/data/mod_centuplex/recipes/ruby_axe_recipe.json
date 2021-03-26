@@ -1,0 +1,30 @@
+{
+  "group": "mod_centuplex",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23",
+    " 5"
+  ],
+  "key": {
+    "0": {
+      "item": "mod_centuplex:ruby"
+    },
+    "1": {
+      "item": "mod_centuplex:ruby"
+    },
+    "2": {
+      "item": "mod_centuplex:ruby"
+    },
+    "3": {
+      "item": "minecraft:stick"
+    },
+    "5": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "mod_centuplex:ruby_axe",
+    "count": 1
+  }
+}

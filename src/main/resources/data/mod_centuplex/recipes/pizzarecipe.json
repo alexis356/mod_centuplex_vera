@@ -1,0 +1,12 @@
+{
+  "group": "mod_centuplex",
+  "type": "minecraft:smelting",
+  "experience": 1,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "mod_centuplex:rawtoppedpizza"
+  },
+  "result": {
+    "item": "mod_centuplex:pizza"
+  }
+}

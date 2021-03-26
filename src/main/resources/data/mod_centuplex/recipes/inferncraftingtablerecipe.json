@@ -1,0 +1,26 @@
+{
+  "group": "mod_centuplex",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "mod_centuplex:infernoplanks"
+    },
+    "1": {
+      "item": "mod_centuplex:infernoplanks"
+    },
+    "2": {
+      "item": "mod_centuplex:infernoplanks"
+    },
+    "3": {
+      "item": "mod_centuplex:infernoplanks"
+    }
+  },
+  "result": {
+    "item": "minecraft:crafting_table",
+    "count": 1
+  }
+}

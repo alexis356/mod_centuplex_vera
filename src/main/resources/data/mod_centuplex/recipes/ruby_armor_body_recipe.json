@@ -1,0 +1,39 @@
+{
+  "group": "mod_centuplex",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "mod_centuplex:ruby"
+    },
+    "2": {
+      "item": "mod_centuplex:ruby"
+    },
+    "3": {
+      "item": "mod_centuplex:ruby"
+    },
+    "4": {
+      "item": "mod_centuplex:ruby"
+    },
+    "5": {
+      "item": "mod_centuplex:ruby"
+    },
+    "6": {
+      "item": "mod_centuplex:ruby"
+    },
+    "7": {
+      "item": "mod_centuplex:ruby"
+    },
+    "8": {
+      "item": "mod_centuplex:ruby"
+    }
+  },
+  "result": {
+    "item": "mod_centuplex:ruby_armor_chestplate",
+    "count": 1
+  }
+}
